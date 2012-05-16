@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<node>
+	<name>Pune IT Park</name>
+	<childrens>
+		<node>
+			<name>A Building</name>
+			<childrens>
+				<node>
+					<name>HFS1</name>
+					<childrens>
+						<node>
+							<name>HFS1.HFS1</name>
+                        </node>
+						<node>
+							<name>HFS1.ABC1</name>
+                            <childrens>
+                                <node>
+                                    <name>HFS1.ABC1.HFS1</name>
+                                </node>
+                                <node>
+                                    <name>HFS1.ABC1.ABC1</name>
+                                </node>
+                                <node>
+                                    <name>HFS1.ABC1.DEF1</name>
+                                </node>
+                            </childrens>
+						</node>
+						<node>
+							<name>HFS1.DEF1</name>
+						</node>
+					</childrens>
+                    </node>
+				<node>
+					<name>ABC1</name>
+				</node>
+				<node>
+					<name>DEF1</name>
+				</node>
+			</childrens>
+		</node>
+		
+        <node>
+			<name>B Building</name>
+			<childrens>
+				<node>
+					<name>HFS2</name>
+                </node>
+				<node>
+					<name>ABC2</name>
+				</node>
+				<node>
+					<name>DEF2</name>
+				</node>
+			</childrens>
+        </node>
+		
+        <node>
+			<name>C Building</name>
+			<childrens>
+				<node>
+					<name>HFS3</name>
+				</node>
+				<node>
+					<name>ABC3</name>
+				</node>
+				<node>
+					<name>DEF3</name>
+				</node>
+			</childrens>
+        </node>
+    </childrens>
+</node>
