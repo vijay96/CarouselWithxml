@@ -597,7 +597,7 @@ CVReturn displayLinkCallback(CVDisplayLinkRef displayLink,
             if (type == iCarouselTypeInvertedWheel)
             {
                 radius = -radius;
-               angle = -angle;
+                angle = -angle;
             }
                     
                
@@ -1986,7 +1986,6 @@ NSComparisonResult compareViewDepth(UIView *view1, UIView *view2, iCarousel *sel
 
 
 
-    
     NSInteger index = [self indexOfItemView:[tapGesture.view.subviews lastObject]];
     
     if (centerItemWhenSelected && index != self.currentItemIndex)

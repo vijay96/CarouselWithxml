@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  CarouselInfo
+//  CarouselWithXml
 //
-//  Created by Vijay Chavan on 09/05/12.
+//  Created by Vijay Chavan on 17/05/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 

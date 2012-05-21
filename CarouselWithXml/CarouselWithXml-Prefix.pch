@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'CarouselInfo' target in the 'CarouselInfo' project
+// Prefix header for all source files of the 'CarouselWithXml' target in the 'CarouselWithXml' project
 //
 
 #import <Availability.h>

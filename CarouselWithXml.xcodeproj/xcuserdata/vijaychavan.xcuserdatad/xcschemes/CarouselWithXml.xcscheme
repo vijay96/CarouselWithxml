@@ -13,10 +13,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "55AEE32F155A5F8E00A68594"
-               BuildableName = "CarouselInfo.app"
-               BlueprintName = "CarouselInfo"
-               ReferencedContainer = "container:CarouselInfo.xcodeproj">
+               BlueprintIdentifier = "55CAC4911564EDA900DAC156"
+               BuildableName = "CarouselWithXml.app"
+               BlueprintName = "CarouselWithXml"
+               ReferencedContainer = "container:CarouselWithXml.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -27,14 +27,24 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "55CAC4B21564EDA900DAC156"
+               BuildableName = "CarouselWithXmlTests.octest"
+               BlueprintName = "CarouselWithXmlTests"
+               ReferencedContainer = "container:CarouselWithXml.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "55AEE32F155A5F8E00A68594"
-            BuildableName = "CarouselInfo.app"
-            BlueprintName = "CarouselInfo"
-            ReferencedContainer = "container:CarouselInfo.xcodeproj">
+            BlueprintIdentifier = "55CAC4911564EDA900DAC156"
+            BuildableName = "CarouselWithXml.app"
+            BlueprintName = "CarouselWithXml"
+            ReferencedContainer = "container:CarouselWithXml.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -50,10 +60,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "55AEE32F155A5F8E00A68594"
-            BuildableName = "CarouselInfo.app"
-            BlueprintName = "CarouselInfo"
-            ReferencedContainer = "container:CarouselInfo.xcodeproj">
+            BlueprintIdentifier = "55CAC4911564EDA900DAC156"
+            BuildableName = "CarouselWithXml.app"
+            BlueprintName = "CarouselWithXml"
+            ReferencedContainer = "container:CarouselWithXml.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -68,10 +78,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "55AEE32F155A5F8E00A68594"
-            BuildableName = "CarouselInfo.app"
-            BlueprintName = "CarouselInfo"
-            ReferencedContainer = "container:CarouselInfo.xcodeproj">
+            BlueprintIdentifier = "55CAC4911564EDA900DAC156"
+            BuildableName = "CarouselWithXml.app"
+            BlueprintName = "CarouselWithXml"
+            ReferencedContainer = "container:CarouselWithXml.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
